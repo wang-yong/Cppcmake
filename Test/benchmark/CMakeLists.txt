@@ -1,0 +1,2 @@
+add_gtest_benchmark_default(clock_benchmark)
+target_link_libraries(clock_benchmark)
